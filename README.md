@@ -1,5 +1,5 @@
 # toggle-input
-![Static Badge](https://img.shields.io/badge/version-1.0.0-green?style=plastic)
+![Static Badge](https://img.shields.io/badge/version-1.0.0-green?style=plastic)  
 HTML5 Web Component that mimics a toggle switch and can be used inside HTML forms as a beautiful alternative to a checkbox.
 
 ## Features
