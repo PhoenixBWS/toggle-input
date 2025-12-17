@@ -28,7 +28,7 @@ Then use it anywhere in the `<body></body>` tag
     </head>
     <body>
         <form method="POST" action="/target" >
-        <toggle-input name="likesCoding" value="on" checked />
+           <toggle-input name="likesCoding" value="on" checked />
         </form>
     </body>
     </html>
