@@ -34,7 +34,7 @@ Then use it anywhere in the `<body></body>` tag
     </html>
 
 ## License
-Apache License 2.0
+Apache License 2.0  
 View the License file for details
 
 Thank you
