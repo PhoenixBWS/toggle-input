@@ -11,11 +11,11 @@ toggle-switch has the absolutely native-like features.
 - Supports Dark Mode
 
 # Usage
-Just include the script as a module inside the `<head></head>` tag  
-  <script type="module" src="toggle-input.js" async ></script>
+Just include the script as a module inside the `<head></head>` tag
+    <script type="module" src="toggle-input.js" async ></script>
 
-Then use it anywhere in the `<body></body>`  
-  <toggle-input name="likesCoding" value="on" checked />
+Then use it anywhere in the `<body></body>` tag
+    <toggle-input name="likesCoding" value="on" checked />
 
 ## Example
   <html>
