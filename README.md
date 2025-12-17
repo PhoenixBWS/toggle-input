@@ -4,7 +4,7 @@
 HTML5 Web Component that mimics a toggle switch and can be used inside HTML forms as a beautiful alternative to a checkbox.
 
 ## Features
-toggle-switch has the absolutely native-like features.
+`toggle-input` has the absolutely native-like features.
 - Mirrors native checkbox behavior using a hidden `<input type="checkbox">` inside shadow DOM
 - Supports: `checked, disabled, name, value, required, indeterminate, autofocus, tabindex`
 - Emits native-like `'input'` and `'change'` only on user interactions
